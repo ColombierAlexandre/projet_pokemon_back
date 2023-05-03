@@ -27,6 +27,9 @@ public class PokemonController {
 	/*
 	 * Ajout d'un autre contributeur
 	 * */
+	/*
+	 * Ajout d'un nouveau commentaire
+	 * */
 	
 	private PokemonService pokemonService;
 	
