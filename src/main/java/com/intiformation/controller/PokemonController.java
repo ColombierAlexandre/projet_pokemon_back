@@ -24,6 +24,9 @@ public class PokemonController {
 	/*
 	 * Commentaire pour git
 	 * */
+	/*
+	 * Ajout d'un autre contributeur
+	 * */
 	
 	private PokemonService pokemonService;
 	
