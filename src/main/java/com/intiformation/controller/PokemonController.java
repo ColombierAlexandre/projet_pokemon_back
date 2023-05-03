@@ -21,6 +21,10 @@ import com.intiformation.service.PokemonService;
 @CrossOrigin("http://localhost:4200")
 public class PokemonController {
 	
+	/*
+	 * Commentaire pour git
+	 * */
+	
 	private PokemonService pokemonService;
 	
 	@Autowired
